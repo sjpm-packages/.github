@@ -4,7 +4,7 @@
         src="/img.png">
 </picture>
 
-# Build With Packages in Static JS
+<h1 style="text-align: center;">Build With Packages in Static JS</h1>
 
 A revolutionary new way to interact with Static JS, basically replacing backend.
 
